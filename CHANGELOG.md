@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.16.1](https://github.com/olimorris/codecompanion.nvim/compare/v19.16.0...v19.16.1) (2026-06-15)
+
+
+### Bug Fixes
+
+* **utils:** update datetime formatting ([#3160](https://github.com/olimorris/codecompanion.nvim/issues/3160)) ([7cc35b7](https://github.com/olimorris/codecompanion.nvim/commit/7cc35b7f7f08d093469fa9ae67d3af716bd729c3))
+
 ## [19.16.0](https://github.com/olimorris/codecompanion.nvim/compare/v19.15.0...v19.16.0) (2026-06-15)
 
 
